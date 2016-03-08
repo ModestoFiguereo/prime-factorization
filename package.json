@@ -4,7 +4,7 @@
   "description": "This package receive a number and returns it prime factors.",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "babel-node test"
   },
   "repository": {
     "type": "git",
