@@ -1,0 +1,24 @@
+{
+  "name": "prime-factorization",
+  "version": "1.0.0",
+  "description": "This package receive a number and returns it prime factors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModestoFiguereo/prime-factorization.git"
+  },
+  "keywords": [
+    "math",
+    "prime",
+    "factorization"
+  ],
+  "author": "Modesto Figuereo Fernandez <figuereo.fernandez.modesto@gmail.com> (http://www.modestofiguereo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModestoFiguereo/prime-factorization/issues"
+  },
+  "homepage": "https://github.com/ModestoFiguereo/prime-factorization#readme"
+}
