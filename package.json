@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ModestoFiguereo/prime-factorization/issues"
   },
-  "homepage": "https://github.com/ModestoFiguereo/prime-factorization#readme"
+  "homepage": "https://github.com/ModestoFiguereo/prime-factorization#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
 }
